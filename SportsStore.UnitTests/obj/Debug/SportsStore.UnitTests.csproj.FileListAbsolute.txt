@@ -1,0 +1,2 @@
+D:\Google_drive\Document_E\Programing\Web\ASP MVC\SportsStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.csprojAssemblyReference.cache
+D:\Google_drive\Document_E\Programing\Web\ASP MVC\SportsStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.csproj.CoreCompileInputs.cache
